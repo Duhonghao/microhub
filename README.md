@@ -7,6 +7,7 @@
 	3. 连接池组件 druid
 	4. 页面渲染组件 thymeleaf
     5. 日志组件 Logback
+    6. 安全组件 spring-security3
 
 
     使用教程:
